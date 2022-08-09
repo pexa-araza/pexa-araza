@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pexa-araza" alt="pexa-araza"/></p>
 
-<!--
-**pexa-araza/pexa-araza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hola Mundo <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/hi.gif">, I'm <a href="https://arsh.dev"> Arsh Sahzad </a><i>aka <del>Md Amir Ali</i></del></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/developer.gif" width="450px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
+</p>
+
+<h2 align="center"> Arsh Sahzad's Stats
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/github-metrics.svg"><br> 
+</h2>
