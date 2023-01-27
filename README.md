@@ -4,10 +4,7 @@
 
 
 
-- 🌱 I’m currently learning: Semantic UI, Material Design.
--  👯 I’m looking to collaborate on any good project on fintech.
-- 💬 Ask me about Css, Javascript,React.js,Next.js,Typescript and Technical writing.
-- 😄 Pronouns: She/Her.
+- 🌱 I’m currently learning: .
 - 📫 How to reach me: aamir.raza@pexa.com.au
 
 ## Technology Stack
