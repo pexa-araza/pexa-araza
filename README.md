@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning: .
-- 📫 How to reach me: aamir.raza@pexa.com.au
+- 📫 How to reach me: aamir.raza@pexa.com.au or Slack slack://user?team=T06B3DNP9&id=U932B1YHE
 
 ## My Github Stats
 
