@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning: .
-- 📫 How to reach me: aamir.raza@pexa.com.au or Slack <a href="slack://user?team=T06B3DNP9&id=U932B1YHE"/>
+- 📫 How to reach me: aamir.raza@pexa.com.au or <a href="slack://user?team=T06B3DNP9&id=U932B1YHE">Slack</a>
 - [I'm an inline-style link with title](slack://user?team=T06B3DNP9&id=U932B1YHE)
 - [I'm an inline-style link with title - 2](https://www.google.com "Google's Homepage")
 - <a href="slack://user?team=T06B3DNP9&id=U932B1YHE?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
