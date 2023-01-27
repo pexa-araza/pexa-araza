@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning: .
 - 📫 How to reach me: aamir.raza@pexa.com.au or Slack [![Slack](slack://user?team=T06B3DNP9&id=U932B1YHE)](Slack)
 - [I'm an inline-style link with title](slack://user?team=T06B3DNP9&id=U932B1YHE "Slack Direct Message")
+- [I'm an inline-style link with title - 2](https://www.google.com "Google's Homepage")
 
 ## My Github Stats
 
