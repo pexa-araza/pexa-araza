@@ -8,7 +8,7 @@
 -  👯 I’m looking to collaborate on any good project on fintech.
 - 💬 Ask me about Css, Javascript,React.js,Next.js,Typescript and Technical writing.
 - 😄 Pronouns: She/Her.
-- 📫 How to reach me: puenehfaith@gmail.com
+- 📫 How to reach me: aamir.raza@pexa.com.au
 
 ## Technology Stack
 
@@ -16,22 +16,7 @@
 
 ## My Github Stats
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasmineblinks&theme=navy-gear)](https://git.io/streak-stats) ![Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineblinks&show_icons=true&theme=solarized-light)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pexa-araza&theme=navy-gear)](https://git.io/streak-stats) ![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pexa-araza&show_icons=true&theme=solarized-light)
  
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineblinks&layout=compact&theme=navy-gear)](https://github.com/jasmineblinks/github-readme-stats) 
-
-<!--
-**jasmineblinks/jasmineblinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on any good project ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pexa-araza&layout=compact&theme=navy-gear)](https://github.com/pexa-araza/github-readme-stats) 
