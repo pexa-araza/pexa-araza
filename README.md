@@ -9,7 +9,6 @@ I'm Aamir Raza, a passionate software engineer with a deep interest in cloud tec
 - :seedling: **Currently learning**: Kubernetes, Machine Learning
 - :technologist: **I am passionate about**: Writing clean code, optimizing systems, and building scalable applications
 - :hammer_and_wrench: **Tech Stack**: AWS, Docker, Kubernetes, ReactJS, NodeJS, Python, Java, Spring Boot, PostgreSQL, Redis, and more.
-- :mailbox: **How to reach me**: [aamir.raza@pexa.com.au](mailto:aamir.raza@pexa.com.au) or Slack: [Connect with me on Slack](slack://user?team=T06B3DNP9&id=U932B1YHE)
 ---
 ## :bar_chart: My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pexa-araza&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
@@ -55,9 +54,7 @@ Here are some of the projects I'm working on or have worked on:
 - :teacher: **Long-Term Goals**: Contribute to open-source projects, mentor junior developers, and build scalable, distributed systems.
 ---
 ## :mailbox: Reach Out
-- Email: [aamir.raza@pexa.com.au](mailto:aamir.raza@pexa.com.au)
 - LinkedIn: [Aamir Raza on LinkedIn](https://www.linkedin.com/in/aamirbi/)
-- GitHub: [@pexa-araza](https://github.com/pexa-araza)
 Feel free to connect with me for collaborations, projects, or just to chat about technology!
 ---
 ## :chart_with_upwards_trend: My Recent Activity
